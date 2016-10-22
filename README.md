@@ -1,4 +1,4 @@
-# file-paths-win32 [![NPM version](https://badge.fury.io/js/file-path-win32.svg)](https://npmjs.org/package/file-paths-win32)   [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+# file-paths-win32 [![NPM version](https://badge.fury.io/js/file-paths-win32.svg)](https://npmjs.org/package/file-paths-win32)   [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 > Find paths of files matching file name on Windows
 
