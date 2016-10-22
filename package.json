@@ -1,0 +1,29 @@
+{
+  "name": "file-path-win32",
+  "version": "0.1.0",
+  "description": "Find file path by name on Windows",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doesdev/file-path-win32.git"
+  },
+  "keywords": [
+    "find",
+    "file",
+    "path",
+    "by",
+    "name",
+    "windows"
+  ],
+  "author": "Andrew Carpenter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doesdev/file-path-win32/issues"
+  },
+  "homepage": "https://github.com/doesdev/file-path-win32#readme"
+}
