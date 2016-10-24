@@ -45,6 +45,9 @@ fpOpts = {full: true}
 filePaths('someFile', fpOpts).then(console.log).catch(console.error)
 ```
 
+## related
+- [file-paths-win32-cli](https://github.com/doesdev/file-paths-win32-cli) `Find file paths from the command line by their name`
+
 ## License
 
 MIT © [Andrew Carpenter](https://github.com/doesdev)
